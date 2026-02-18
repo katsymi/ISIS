@@ -67,7 +67,7 @@
 
 1.  **Клонируйте репозиторий**
     ```bash
-    git clone https://github.com/your-username/food-diary.git
+    git clone https://github.com/katsymi/ISIS
     cd food-diary
     ```
 
@@ -98,3 +98,4 @@
     ```
 
 ## 📂 Структура проекта
+
